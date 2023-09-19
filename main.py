@@ -8,7 +8,7 @@ print('Enter the following details for your Mokebeast')
 print()
 for i in info:
   if i == 'Type':
-    print(f'{i} (Air,Earth, Water, Spirit or Fire), ', end='')
+    print(f'{i} (Air, Earth, Water, Spirit or Fire), ', end='')
   else:
     print(f'{i}, ', end='')
 print()
